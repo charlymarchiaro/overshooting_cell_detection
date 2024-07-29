@@ -1,4 +1,4 @@
 .idea
 src_data/
-output/
+output/*
 !output/.gitkeep
