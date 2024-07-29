@@ -1,4 +1,4 @@
 .idea
 src_data/
-output/*.xlsx
+output/
 !output/.gitkeep
