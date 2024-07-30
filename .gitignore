@@ -1,4 +1,5 @@
 .idea
-src_data/
+src_data/traffica_insights_jobs/*
+!src_data/traffica_insights_jobs/.gitkeep
 scripts/output/*
 !scripts/output/.gitkeep
